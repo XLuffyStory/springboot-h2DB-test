@@ -1,0 +1,2 @@
+INSERT INTO T_CUSTOMER values(1L,'Hello');
+INSERT INTO T_CUSTOMER values(2L,'World');
